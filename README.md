@@ -1,6 +1,6 @@
 # Looking for Chars (Recursion)
 
-A beginner level task for practicing recursion and branches.
+An intermediate level task for practicing recursion and branches.
 
 The task is to implement three methods using recursive algorithm.
 
